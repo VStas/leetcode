@@ -1,0 +1,2 @@
+Topics: Array
+Difficulty: Easy
