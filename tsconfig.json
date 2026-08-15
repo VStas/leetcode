@@ -4,6 +4,8 @@
     "module": "CommonJS",
     "outDir": "./dist",
     "strict": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "rootDir": ".",
+    "types": ["jest", "node"]
   }
 }
