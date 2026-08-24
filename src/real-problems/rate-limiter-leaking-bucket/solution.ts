@@ -1,5 +1,3 @@
-// WIP Leaking bucket algorithm
-
 type Node<T> = {
   value: T;
   next: Node<T> | null;
